@@ -9,7 +9,7 @@ Larvel Based Remote Work Platform
 
 ## Authors
 
-* **Ashish Sharma** - [devZiners, Inc.](http://www.ashishsharma.in)
+* **Ashish Sharma** - [21396375](http://www.ashishsharma.in)
 * **Elena Anghelina** - [21416540]
 * **Naaz Fatima** - [21404152]
 
